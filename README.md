@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to pittore
 ![](images/clearlake_vangogh.jpg)
 
 

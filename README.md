@@ -11,7 +11,7 @@ This program is an implementation of a [journal article](https://arxiv.org/abs/1
 
 ## Documentation
 pittore is python class. Please refer to the documentation bellow:
-![](images/documentation.jpg)
+![](images/documentation.png)
 
 ```markdown
 Syntax highlighted code block

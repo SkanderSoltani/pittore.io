@@ -9,7 +9,9 @@ pittore turns your favorite pictures into stylistic art. It is open source, easy
 
 This program is an implementation of a [journal article](https://arxiv.org/abs/1508.06576) titled: "A neural Algorithm of Artistic Style" by Leon A.Gatys, Alexander S.Ecker and Matthias Bethge. Some of the software material are due to MatCovnet and are subject to additional licensing rights. The pretrained VGG19 model parameters can be also downloaded at the following link: http://www.vlfeat.org/matconvnet/pretrained/.     
 
-
+## Documentation
+pittore is python class. Please refer to the documentation bellow:
+![](images/documentation.jpg)
 
 ```markdown
 Syntax highlighted code block

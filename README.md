@@ -3,11 +3,10 @@
 
 
 
-You can use the [editor on GitHub](https://github.com/SkanderSoltani/pittore.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Project Description
+pittore turns your favorite pictures into stylistic art. It is open source, easy to use and rely on deep neural network technologies to create bespoke art. 
 
-### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

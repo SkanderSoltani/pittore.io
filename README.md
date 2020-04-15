@@ -1,5 +1,5 @@
 ## Welcome to pittore
-![](images/clearlake_vangogh.jpg)
+![](images/firstExample.jpg)
 
 
 

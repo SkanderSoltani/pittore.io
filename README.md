@@ -18,3 +18,6 @@ pittore is python class. Please refer to the documentation bellow:
 
 ## Additional Smples
 ![](images/example1.jpg)
+![](images/example2.jpg)
+![](images/example3.jpg)
+![](images/example4.jpg)

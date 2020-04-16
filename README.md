@@ -1,5 +1,5 @@
 ## Welcome to pittore
-![](images/firstExample.jpg)
+![](images/secondExample.jpg)
 
 
 
